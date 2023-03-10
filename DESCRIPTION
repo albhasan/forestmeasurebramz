@@ -1,0 +1,12 @@
+Package: forestmeasurebramz
+Title: Processed data of the Brazilian Amazon 2009-2018
+Version: 0.0.0.9001
+Authors@R: 
+    c(person("Alber", "Sanchez", , "alber.ipia@inpe.br", role = c("aut"), comment = c(ORCID = "0000-0001-7966-2880")),
+      person("Guilherme", "Mataveli", "mataveli@alumni.usp.br", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-4645-0117")))
+Description: Processed data of the Forest Inventory and Biophysical 
+    Measurements, Brazilian Amazon, 2009-2018 <https://daac.ornl.gov/CMS/guides/Forest_Inventory_Brazil.html>.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
